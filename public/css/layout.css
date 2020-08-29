@@ -107,7 +107,7 @@ header {
   color: #fff;
 }
 #home .social li a:hover {
-  color: ##ae1e76;
+  color: #ae1e76;
 }
 
 /* scrolldown link */
@@ -131,7 +131,7 @@ header {
   transition: all 0.3s ease-in-out;
 }
 #home .scrolldown a:hover {
-  color: ##ae1e76;
+  color: #ae1e76;
 }
 
 /* primary navigation
@@ -223,7 +223,7 @@ ul#nav li.current a {
 }
 #about a:hover,
 #about a:focus {
-  color: ##ae1e76;
+  color: #ae1e76;
 }
 
 #about h2 {
@@ -277,7 +277,7 @@ ul#nav li.current a {
 
 #resume a,
 #resume a:visited {
-  color: ##ae1e76;
+  color: #ae1e76;
 }
 #resume a:hover,
 #resume a:focus {
@@ -897,7 +897,7 @@ call-to-action .button {
 
 #contact a,
 #contact a:visited {
-  color: ##ae1e76;
+  color: #ae1e76;
 }
 #contact a:hover,
 #contact a:focus {
@@ -967,7 +967,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
   color: #fff;
-  background-color: ##ae1e76;
+  background-color: #ae1e76;
 }
 #contact button.submit {
   text-transform: uppercase;
@@ -986,7 +986,7 @@ call-to-action .button {
   background: #fff;
 }
 #contact span.required {
-  color: ##ae1e76;
+  color: #ae1e76;
   font-size: 13px;
 }
 #message-warning,
@@ -1002,7 +1002,7 @@ call-to-action .button {
   color: #d72828;
 }
 #message-success {
-  color: ##ae1e76;
+  color: #ae1e76;
 }
 
 #message-warning i,
