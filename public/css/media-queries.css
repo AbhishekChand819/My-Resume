@@ -68,6 +68,9 @@
   .portfolio-item .item-wrap img {
     height: auto;
   }
+  .popup-modal .description-box {
+    padding: 15px;
+  }
   /* #home styles
    ------------------------------------------------------------------ */
   #home .banner-text h1 {
