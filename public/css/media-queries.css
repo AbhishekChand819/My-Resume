@@ -9,56 +9,56 @@
   /* #home styles
   ------------------------------------------------------------------ */
   #nav-wrap {
-    font: 16px "opensans-bold", sans-serif !important;
+    font: 16px "opensans-bold", sans-serif;
   }
   #portfolio .row {
-    max-width: 1500px !important;
+    max-width: 1500px;
   }
   #nav-wrap ul {
-    margin-top: 10px !important;
+    margin-top: 10px;
   }
   #about p,
   .address {
-    font-size: 19px !important;
+    font-size: 19px;
   }
   #about h2 {
-    font: 24px/30px "opensans-bold", sans-serif !important;
+    font: 24px/30px "opensans-bold", sans-serif;
   }
   #home .banner-text h3 {
-    font: 22px/1.9em "librebaskerville-regular", serif !important;
+    font: 22px/1.9em "librebaskerville-regular", serif;
   }
   #home .banner-text h1 {
-    font: 100px/1.1em "opensans-bold", sans-serif !important;
+    font: 100px/1.1em "opensans-bold", sans-serif;
   }
   #portfolio h1 {
-    font: 19px/24px "opensans-semibold", sans-serif !important;
+    font: 19px/24px "opensans-semibold", sans-serif;
   }
   #contact h4 {
-    font: 20px/24px "opensans-bold", sans-serif !important;
+    font: 20px/24px "opensans-bold", sans-serif;
   }
   #contact label {
-    font: 18px/24px "opensans-bold", sans-serif !important;
+    font: 18px/24px "opensans-bold", sans-serif;
   }
   .portfolio-item .item-wrap img {
-    height: 230px !important;
+    height: 230px;
   }
   .popup-modal {
-    max-width: 900px !important;
+    max-width: 900px;
   }
   .portfolio-item .portfolio-item-meta h5 {
-    font: 18px/21px "opensans-bold", sans-serif !important;
+    font: 18px/21px "opensans-bold", sans-serif;
   }
   .portfolio-item .portfolio-item-meta p {
-    font: 15px/18px "opensans-light", sans-serif !important;
+    font: 15px/18px "opensans-light", sans-serif;
   }
   .popup-modal .description-box p {
-    font: 16px/24px "opensans-regular", sans-serif !important;
+    font: 16px/24px "opensans-regular", sans-serif;
   }
   .popup-modal .description-box .categories {
-    font: 13px/21px "opensans-light", sans-serif !important;
+    font: 13px/21px "opensans-light", sans-serif;
   }
   .popup-modal .link-box a {
-    font: 13px/21px "opensans-bold", sans-serif !important;
+    font: 13px/21px "opensans-bold", sans-serif;
   }
 }
 
