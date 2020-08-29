@@ -1,0 +1,176 @@
+{
+  "main": {
+    "name": "Abhishek Chand",
+    "occupation": "Full Stack Web-Developer",
+    "description": "creating awesome and effective websites and web designs for companies. My personal ambition remains the same - to be creative, to be modern, to stay one step ahead, to enjoy life.",
+    "image": "profilepic.jpg",
+    "bio": "I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript and inhaling a wide variety of potentially useless information through a few hundred blog feeds. I build websites that delight and inform. I do it well.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "abhishekchand055@gmail.com",
+    "phone": "+919818047708",
+    "address": {
+      "street": "Keshav Puram",
+      "city": "Delhi",
+      "state": "New Delhi",
+      "zip": "110035"
+    },
+    "website": "http://abhishekchand.cf",
+    "resumedownload": "resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/abhichand055",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/nerdyAbhi_Shake",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abhishek-chand-1aa5b0157/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abhi_chand819/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/AbhishekChand819",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "dribbble",
+        "url": "https://dribbble.com/AbhiChand",
+        "className": "fa fa-dribbble"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Bhagwan Parshuram Institute of Technology",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "August 2021",
+        "description": "I'm pursuing B.Tech. in Computer Science Engineering in Bhagwan Parshuram Institute of Technology (BPIT) affiliated to GGSIPU. I'm very active in organising events and competitions. I am a student member of Computer Society of India, BPIT chapter."
+      },
+      {
+        "school": "Tyagi Public School",
+        "degree": "Class 1 - 12",
+        "graduated": "April 2017",
+        "description": "From Class 1 to 12 I studied in the same school and made lot of friends. I scored 9.8 CGPA in my 10th exams and 89% in my 12th exams. During this period, I participated in lots of science & tehnology competitions, exams and quizzes."
+      }
+    ],
+    "work": [
+      {
+        "company": "Computer Society of India",
+        "title": "Student Member",
+        "years": "Aug 2017 - Present"
+      },
+      {
+        "company": "All India Management Association (AIMA)",
+        "title": "Ethical Hacking & Cyber Security Trainee",
+        "years": "July 2019"
+      },
+      {
+        "company": "Corona BPIT",
+        "title": "Co-Organizer",
+        "years": "March 2019"
+      },
+      {
+        "company": "Ideal Village",
+        "title": "Full Stack Web Developer",
+        "years": "Jan 2019 - March 2019"
+      },
+      {
+        "company": "Classmate",
+        "title": "Marketing Intern",
+        "years": "March 2018 - May 2018"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML"
+      },
+      {
+        "name": "CSS"
+      },
+      {
+        "name": "JQuery"
+      },
+      {
+        "name": "PHP"
+      },
+      {
+        "name": "React"
+      },
+      {
+        "name": "Angular"
+      },
+      {
+        "name": "NodeJs"
+      },
+      {
+        "name": "MongoDB"
+      },
+      {
+        "name": "Figma"
+      },
+      {
+        "name": "Adobe XD"
+      },
+      {
+        "name": "Wondershare Filmora"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Private Chat",
+        "category": "SOCKET IO, HTML",
+        "image": "privatechat.png",
+        "description": "It is a web chatting application where you can join rooms and chat with people that are already in that room. This application is suitable for both mobiles and laptops. This application is made with the help of NodeJs and SocketIO.",
+        "url": "http://privatechat.glitch.me/"
+      },
+      {
+        "title": "SnapShop",
+        "category": "HTML, CSS, JS, PHP",
+        "image": "snapshop.png",
+        "description": "Snapshop is an e-commerce platform where you can buy products. This project also consists of payment integration features with the help of PayUMoney. It also contains an admin account from where he/she can add several products to the actual website and also update and delete them.",
+        "url": "http://snapshop.epizy.com/"
+      },
+      {
+        "title": "Blogie",
+        "category": "HMTL, CSS, JS, PHP",
+        "image": "blogie.png",
+        "description": "Blogie is a platform made for bloggers. On this website you can post several posts and blogs and can choose categories in accordance to your blogs, A user can also edit and update their blogs by the help of WYSIWYG editor. There is also an Admin Panel which controls our website by displaying the blogs which are accepted by him/her.",
+        "url": "https://bloggie.cf/"
+      },
+      {
+        "title": "Journally",
+        "category": "Angular, NodeJs, MongoDB, Mongoose, Express",
+        "image": "journally.png",
+        "description": "Journally is a blogging application as well as a news source platform where a reader has access to several articles and a writer can read as well ass write articles about any field or topic.",
+        "url": "http://www.journally.tech/"
+      },
+      {
+        "title": "Lyric Finder",
+        "category": "React",
+        "image": "lyricfinder.png",
+        "description": "Lyric Finder is an online platform where you can search lyrics for any song, view some amazing playlists both of English and Hindi songs and as well can listen to the preview of the song you searched. ",
+        "url": "https://findtracklyrics.000webhostapp.com/"
+      },
+      {
+        "title": "Theatre",
+        "category": "ReactJS",
+        "image": "theatre.png",
+        "description": "Theatre is an ReactJS based project. This project uses a Movie and TV Application Program Interface (API) to fetch movies, TV series and other entertainment-related content. The information, which is fetched, is displayed using ReactJS.",
+        "url": "https://theatre.netlify.app/"
+      }
+    ]
+  }
+}
