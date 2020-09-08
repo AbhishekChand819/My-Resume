@@ -1,10 +1,11 @@
 {
   "main": {
     "name": "Abhishek Chand",
-    "occupation": "Full Stack Web-Developer",
-    "description": "creating awesome and effective websites and web designs for companies. My personal ambition remains the same - to be creative, to be modern, to stay one step ahead, to enjoy life.",
+    "occupation1": "Full Stack Web-Developer",
+    "occupation2": "UI/UX Designer",
+    "description": "creating websites and web designs for companies. My personal ambition remains the same - to be creative, to be modern, to stay one step ahead, to enjoy life.",
     "image": "profilepic.jpg",
-    "bio": "I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript and inhaling a wide variety of potentially useless information through a few hundred blog feeds. I build websites that delight and inform. I do it well.",
+    "bio": "I’m a web developer and UI/UX Designer. I spend my whole day, practically every day, experimenting with several development, creating beautiful designs and inhaling a wide variety of potentially useless information through a few hundred blog feeds. I build websites that delight and inform. I do it well.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "abhishekchand055@gmail.com",
     "phone": "+919818047708",
@@ -175,6 +176,20 @@
         "image": "theatre.png",
         "description": "Theatre is an ReactJS based project. This project uses a Movie and TV Application Program Interface (API) to fetch movies, TV series and other entertainment-related content. The information, which is fetched, is displayed using ReactJS.",
         "url": "https://theatre.netlify.app/"
+      }
+    ],
+    "designs": [
+      {
+        "title": "DailyFeed - Social Networking App Design",
+        "category": "Figma",
+        "image": "dailyfeed.png",
+        "url": "https://www.figma.com/file/0SZ3cBEoCBPj2KiMmxEtXz/DailyFeed?node-id=0%3A1"
+      },
+      {
+        "title": "Rhyzmo - Songs Player Design",
+        "category": "Figma",
+        "image": "rhyzmo.png",
+        "url": "https://www.figma.com/file/2IFucCOO8XJ6fabwfe76mv/Songs?node-id=0%3A1"
       }
     ]
   }

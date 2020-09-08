@@ -69,19 +69,63 @@ class Portfolio extends Component {
           </div>
         );
       });
+
+      var designs = this.props.data.designs.map(function (designs) {
+        var designsImage = "images/portfolio/" + designs.image;
+        return (
+          <div key={designs.title} className="columns portfolio-item">
+            <div className="item-wrap">
+              <div title={designs.title}>
+                <img alt={designs.title} src={designsImage} />
+                <div className="overlay">
+                  <div className="portfolio-item-meta">
+                    <h5>{designs.title}</h5>
+                    <p>{designs.category}</p>
+                  </div>
+                </div>
+                <div className="link-icon">
+                  <i
+                    onClick={() =>
+                      openPopupbox(
+                        designs.yt,
+                        designsImage,
+                        designs.title,
+                        designs.category,
+                        designs.url,
+                        designs.description
+                      )
+                    }
+                    className="fa fa-search-plus"
+                  ></i>
+                </div>
+              </div>
+            </div>
+          </div>
+        );
+      });
     }
 
     return (
       <section id="portfolio">
         <div className="row">
           <div className="twelve columns collapsed">
-            <h1>Check Out Some of My Works.</h1>
+            <h1>Web Developement Projects</h1>
 
             <div
               id="portfolio-wrapper"
               className="bgrid-thirds s-bgrid-thirds cf"
             >
               {projects}
+            </div>
+          </div>
+          <div className="twelve columns collapsed">
+            <h1>UI/UX Designs</h1>
+
+            <div
+              id="portfolio-wrapper"
+              className="bgrid-thirds s-bgrid-thirds cf"
+            >
+              {designs}
             </div>
           </div>
         </div>
